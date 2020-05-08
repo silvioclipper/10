@@ -1,0 +1,28 @@
+Métodos HTTP
+
+Tipo de parâmentros
+
+Query Paramets 
+90% 
+
+localhost/
+
+Aba Query
+
+request.query()
+
+Route
+
+put ou delete apenas um usuário
+app.put('/users/:id'
+request.params
+
+
+Body
+
+POST/
+
+Criar recurso
+
+request.body
+
